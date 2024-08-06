@@ -1,0 +1,2 @@
+# OdinProject
+js journey
